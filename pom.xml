@@ -94,7 +94,6 @@
 	
 	<distributionManagement>
 
-		
 	    <repository>
 	       <id>nexus</id>
 	            <name>Landmark Technologies Releases Nexus Repository</name>
